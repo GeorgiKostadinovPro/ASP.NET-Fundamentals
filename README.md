@@ -1,7 +1,7 @@
 # ASP.NET-Fundamentals - May 2023
 This is a repository where I upload all my exercises, exams and certificates from the ASP.NET-Fundamentals module in Software University ( Sofia, Bulgaria ).
 
-ASP.NET-Fundamentals Exam - 100/100 points.
+ASP.NET-Fundamentals Exam - 102/105 points.
 
 - Topics: HTTP Protocol, State Management & Asynchronous Processing, ASP.NET Core Introduction, ASP.NET and Databases, ASP.NET Identity
 
